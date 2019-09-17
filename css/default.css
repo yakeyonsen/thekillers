@@ -1,3 +1,23 @@
 body {
-  background-color: lightblue;
+  background-image: url("http://s3-eu-west-1.amazonaws.com/diy-magazine//diy/Artists/K/The-Killers/08-07-17-Hyde-Park-credit-Rob-Loud/D04_9669-Killers-Hyde-Park-credit-Rob-Loud.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+* {
+  text-align: center;
+}
+h1 {
+  text-align:center;
+  background-color:Tomato;
+}
+.album {}
+.lyrics{
+  background-color: tomato; opacity: .6;
+  width: 30%;
+  margin:5px auto;
+  padding: 20px;
+}
+.opinion {
+  font-style: italic;
 }
