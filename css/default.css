@@ -19,5 +19,5 @@ h1 {
   padding: 20px;
 }
 .opinion {
-  font-style: italic;
+  font-style: italic; line-height: 10px;
 }
